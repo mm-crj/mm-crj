@@ -1,2 +1,2 @@
 # Hi Welcome to my Github Profile
-This is under construction.
+Computational mathematician with over 4 years of experience in scientific computing, mathematical modeling, and data analysis. Proven expertise in developing scalable numerical algorithms, implementing high-performance computing solutions, and translating complex mathematical models into practical applications. Strong background in partial differential equations, numerics, optimization, machine learning, and statistical analysis, with experience in climate modeling, financial markets, and consulting projects. I possess a deep understanding of mathematical modeling, numerical methods, and statistical analysis, with a strong emphasis on scientific software development.
