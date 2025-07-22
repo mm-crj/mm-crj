@@ -1,2 +1,8 @@
 # Hi Welcome to my Github Profile
-Computational mathematician with over 4 years of experience in scientific computing, mathematical modeling, and data analysis. Proven expertise in developing scalable numerical algorithms, implementing high-performance computing solutions, and translating complex mathematical models into practical applications. Strong background in partial differential equations, numerics, optimization, machine learning, and statistical analysis, with experience in climate modeling, financial markets, and consulting projects. I possess a deep understanding of mathematical modeling, numerical methods, and statistical analysis, with a strong emphasis on scientific software development.
+BioMath Researcher at TU Dresden. I models of tissue growth with partial differential equations. I use finite volume methods and unstructured meshes to model tissue with irregular boundaries. These schemes conserve mass, and also preserve structural properties like gradient flow and decay of free energy. Apart form that I am also passionate about Opensource projects like:
+
+* Mozilla Common Voice
+* Neovim
+* [Quantitative modelling]()
+* Natural Language processing in Bangla
+* [Digitising Old books]()
